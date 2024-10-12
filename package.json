@@ -1,0 +1,21 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.19.2",
+    "lil-gui": "^0.19.2",
+    "sirv": "^2.0.4",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "vite": "^5.2.10"
+  }
+}
